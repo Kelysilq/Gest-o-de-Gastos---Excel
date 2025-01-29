@@ -5,9 +5,9 @@
 
 > Projeto com o objetivo de gerar uma planilha inteligente com dashboard no Excel, fazendo uso de vários recursos como tabela dinâmica, segmentação de dados e gráficos para demostrar domínio da ferramenta e impressionar recrutadores, utilizando ferramentas de IA através de prompt para organizar o trabalho e gerar insights.
 > 
-> Olha só como ficou o Painel [Projeto Planilhas Inteligentes e IA](https://github.com/Kelysilq/Gest-o-de-Gastos---Excel/commit/1024cd5cfece17b76ead11c3126525abeb9a2add)
+> Olha só como ficou o Painel [Projeto Planilhas Inteligentes e IA](https://github.com/Kelysilq/Gest-o-de-Gastos---Excel/blob/main/Projeto_Gest%C3%A3o%20de%20Gastos.xlsx)
 
-Introduzi a [Base de Dados](https://github.com/Kelysilq/Gest-o-de-Gastos---Excel/commit/000959919524a04ec9a7203ce9c713daa24a630b) e utilizei o seguinte prompt no Chat GPT para gerar um painel impressionante no Excel:
+Introduzi a [Base de Dados](https://github.com/Kelysilq/Gest-o-de-Gastos---Excel/blob/main/Base%20de%20Dados%20fornecida.xlsx)) e utilizei o seguinte prompt no Chat GPT para gerar um painel impressionante no Excel:
 
 ## 🧠 Prompt
 
@@ -30,7 +30,7 @@ Chat GPT:
 
 ## 📚 Materiais
 
-- [Base de Dados]( https://github.com/Kelysilq/Gest-o-de-Gastos---Excel/commit/000959919524a04ec9a7203ce9c713daa24a630b)
+- [Base de Dados](https://github.com/Kelysilq/Gest-o-de-Gastos---Excel/blob/main/Base%20de%20Dados%20fornecida.xlsx)
 
 ## 🛠️ Instruções de execução
 
